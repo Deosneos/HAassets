@@ -1,12 +1,10 @@
 {
   "type": "micro",
   "wake_word": "What Ho Jeeves",
-  "author": "you",
-  "website": "",
-  "model": "what_ho_jeeves.tflite",
-  "trained_languages": [
-    "en"
-  ],
+  "author": "Dieter",
+  "website": "https://github.com/Deosneos/HAassets",
+  "model": "https://raw.githubusercontent.com/Deosneos/HAassets/main/what_ho_jeeves.tflite",
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
