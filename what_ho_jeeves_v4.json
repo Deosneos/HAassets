@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "What Ho Jeeves",
   "author": "you",
-  "website": "",
+  "website": "https://github.com/Deosneos/HAassets",
   "model": "what_ho_jeeves_v4.tflite",
   "trained_languages": [
     "en"
